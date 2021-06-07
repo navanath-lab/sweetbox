@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is DC6C-4300
+
+ Directory of C:\Users\navanath\Desktop\MyProject
+
+08/27/2020  11:20 AM    <DIR>          .
+08/27/2020  11:20 AM    <DIR>          ..
+08/27/2020  11:20 AM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  176,394,461,184 bytes free
